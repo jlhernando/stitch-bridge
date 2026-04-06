@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "telegram-me": {
+      "command": "node",
+      "args": [
+        "/Users/joseluis.hernando/Documents/OtherProjects/telegram-me/dist/index.js"
+      ],
+      "env": {
+        "TELEGRAM_BOT_TOKEN": "8723260209:AAFamvfzp6-JZYDsiUz8vHY0P0364AJWzMs",
+        "TELEGRAM_USER_ID": "8287056584"
+      }
+    }
+  }
+}
